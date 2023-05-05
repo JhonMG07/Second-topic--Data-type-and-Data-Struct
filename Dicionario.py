@@ -22,3 +22,5 @@ equipos = {
 
 print(equipos["futbol"])  # Imprime ["Real Madrid", "Barcelona", "Atlético de Madrid"]
 print(equipos["baloncesto"][1])  # Imprime "Barcelona"
+ # y todo quedaria listo
+ 
