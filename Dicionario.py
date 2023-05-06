@@ -10,7 +10,8 @@ print(dict)
 
 dict["pinneaple"] = {"orange"}
 
-print(dict) #imprime toda la lista
+print(dict) #imprime toda la lista+
+
 
 # Diccionarios con listas
 
@@ -23,4 +24,4 @@ equipos = {
 print(equipos["futbol"])  # Imprime ["Real Madrid", "Barcelona", "Atlético de Madrid"]
 print(equipos["baloncesto"][1])  # Imprime "Barcelona"
  # y todo quedaria listo
- 
+
